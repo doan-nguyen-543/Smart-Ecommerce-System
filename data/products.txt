@@ -1,0 +1,2 @@
+2,iPhone 15,Electronics,1200,15,0,0
+3,Shoes,Fashion,120,50,0,0
