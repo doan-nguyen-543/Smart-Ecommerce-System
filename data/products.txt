@@ -1,2 +1,10 @@
+1,Smart Watch, Electronics, 1000,100,40,20 
 2,iPhone 15,Electronics,1200,15,0,0
 3,Shoes,Fashion,120,50,0,0
+4,Sony Headset,Electronics,350,40,120,25
+5,Mechanical Keyboard,Electronics,85,25,95,14
+6,Running Shoes,Fashion,110,60,45,8
+7,Leather Jacket,Fashion,250,15,180,3
+8,T-Shirt Cotton,Fashion,25,200,310,145
+9,Espresso Machine,Appliances,550,8,64,2
+10,Blender Pro,Appliances,130,35,88,19

@@ -128,7 +128,7 @@ void ECommerceSystem::customerMenu(Customer* customer)
 
             int productID;
 
-            cout << "\nEnter Product ID (0 to cancel): ";
+            cout << "\nEnter Product ID to purchase (0 to cancel): ";
             cin >> productID;
 
             if (productID == 0)
