@@ -124,3 +124,7 @@ void ProductManager::loadProducts(const string& filename) {
 
     in.close();
 }
+
+const std::vector<Product>& ProductManager::getProducts() const {
+    return products;
+}

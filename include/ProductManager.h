@@ -21,6 +21,8 @@ public:
 
     void loadProducts(const std::string& filename);
     void saveProducts(const std::string& filename) const;
+
+    const std::vector<Product>& getProducts() const;
 };
 
 #endif
